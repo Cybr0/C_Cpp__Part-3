@@ -1,0 +1,4 @@
+﻿  StackTest.cpp
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\14\homework_1573577952\StackDataStructures\StackTest\dynamic_array_stack.h(59): warning C4172: возвращение адреса локальной или временной переменной
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\14\homework_1573577952\StackDataStructures\StackTest\dynamic_array_stack.h(59): warning C4172: возвращение адреса локальной или временной переменной
+  StackTest.vcxproj -> C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\14\homework_1573577952\StackDataStructures\Debug\StackTest.exe

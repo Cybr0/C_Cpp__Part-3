@@ -1,0 +1,3 @@
+﻿  Lesson20_2.cpp
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\20\1574356417\Lesson20_2\Lesson20_2\Vector.h(18,3): error C3861: '_size': identifier not found
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\20\1574356417\Lesson20_2\Lesson20_2\Vector.h(21): message : see reference to class template instantiation 'Vector<T>' being compiled

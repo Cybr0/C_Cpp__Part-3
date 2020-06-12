@@ -1,0 +1,6 @@
+﻿  Project.cpp
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\12\12\Project\Project.cpp(21,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\12\12\Project\Project.cpp(30,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\12\12\Project\Project.cpp(38,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\12\12\Project\Project.cpp(49,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Project.vcxproj -> C:\Kursi\Основы программирования на языке C++\ДЗ\3rd-visual_st_oop\12\12\x64\Debug\Project.exe

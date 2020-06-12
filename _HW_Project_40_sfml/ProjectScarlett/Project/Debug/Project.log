@@ -1,0 +1,34 @@
+﻿  DATA.cpp
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(70,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(73,35): warning C4018: >: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(224,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(242,11): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(266,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(289,11): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(309,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(346,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(360,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\DATA.cpp(518,25): warning C4018: <: несоответствие типов со знаком и без знака
+  FLIGHT.cpp
+  Main.cpp
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(70,30): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(73,35): warning C4018: >: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Textbox.h(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Button.h(62,16): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Button.h(63,16): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Menu.h(63,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Project\Menu.h(74,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  USER.cpp
+  Создание кода...
+  Project.vcxproj -> C:\codeWar\C++\ДЗ\3rd\40\ProjectScarlett\Debug\Project.exe
